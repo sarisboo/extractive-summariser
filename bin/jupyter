@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+docker run --rm -it -v "$PWD:/root/project" -p "8888:8888" sarisboo/devenv poetry run jupyter notebook --allow-root --no-browser --ip=0.0.0.0
