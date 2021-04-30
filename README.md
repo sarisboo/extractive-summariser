@@ -1,4 +1,4 @@
-# Template Nounoursita 🧸
+# Template 
 
 ## Setup
 
