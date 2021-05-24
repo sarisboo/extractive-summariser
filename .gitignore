@@ -1,4 +1,13 @@
-.datasets/
+# Enviroment 
 .venv/
+
+#Personal file
 TODO.md
+
+#json
 settings.json
+
+# Datasets
+/data
+
+
